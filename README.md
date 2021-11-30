@@ -47,3 +47,11 @@ Executed  the financial planning and analysis of Light Networks.,a simulated com
 ![I22](Images/22.png)
 
 ![I23](Images/23.png)
+
+![I24](Images/24.png)
+
+![I25](Images/25.png)
+
+![I26](Images/26.png)
+
+![I237](Images/27.png)
